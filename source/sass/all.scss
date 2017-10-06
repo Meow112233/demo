@@ -1,0 +1,13 @@
+$primary-color:red;
+body {
+    color: $primary-color;
+}
+
+.card {
+    transform: rotate(120deg);
+    filter: blur(3px);
+}
+
+p {
+    color: #9332A0;
+}
